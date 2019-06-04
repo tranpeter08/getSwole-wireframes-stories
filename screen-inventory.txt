@@ -1,0 +1,7 @@
+1) Landing page
+2) Login page
+3) Registration page
+4) Workouts
+5) Nutrition
+6) Recipes
+7) My Recipes

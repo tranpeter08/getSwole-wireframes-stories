@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="./style.css">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
+  <title>GET SWOLE</title>
+</head>
+<header>
+  <nav>
+    <span class="nav-brand">GET SWOLE</span> 
+    <i class="hamburger fas fa-bars"></i> 
+  </nav>
+  <ul class="nav-list-mobile"> 
+      <li> <a class=" nav-link" href="./landing-mobile.html">Home</a></li> 
+      <li> <a class="active nav-link" href="./user-mobile-userpage-workout.html"> <i class="fas fa-dumbbell"></i> Workouts</a></li> 
+      <li> <a class="nav-link" href="./user-mobile-page-nutrition.html">Nutrition</a></li>  
+      <li> <a class="nav-link" href="./user-mobile-page-recipes.html">Recipes</a></li>
+      <li> <a class="nav-link" href="./user-mobile-page-myrecipes.html">My Recipes</a></li> 
+      <li> <a class="nav-link" href="./landing-mobile.html">Logout</a></li> </ul> 
+  </ul> 
+</header>
+<body>
+  <div class="user-page">
+    <div class="section-a">
+      <div class="image-container">
+        <img class="profile-img" src="./PT-linkedin.JPG" alt="me">
+        <h3>User name</h3>
+      </div>
+      <div class="info">
+        <p>Height: 5' 8" </p>
+        <p>Weight: 180 lb</p>
+        <p>Body Fat: 15%</p>
+      </div>
+    </div>
+    <div class="row">
+      <div class='workout'>
+          <button><a href='./user-mobile-userpage-workout.html'> <== Back to workouts</a></button>
+        <h2>Exercises for workout "Legs"</h2>
+        <ul class="workout-list">
+          <li>
+              <h3>Add an Exercise</h3>
+              <label for="">Exercise name: 
+              <input type="text" name="" value='Squat' id=""></label><br>
+              <label for="">Resistance: 
+                <input type="text" name="" value='80' id=""></label><select name="" id="">
+                    <option value="">lb</option>
+                  </select><br>
+                
+              <label for="">Reps: 
+                <input type="text" name="" value='3' id=""></label><br>
+              <label for="">Sets: 
+                <input type="text" name="" value='2' id=""></label><br>
+              <Button>Submit</Button>
+              <Button>Cancel</Button>
+          </li>
+          <li>
+            <h3>Leg Curl</h3>
+            <span>Resistance: 45 lb </span><br>
+            <span>Reps: 10 </span><br>
+            <span>Sets: 2 </span><br>
+            <span>Notes: Rest 2 minutes between sets </span><br>
+            <button disabled>Edit</button><button disabled>delete</button>
+          </li>
+          <li>
+            <h3>Lunges</h3>
+            <span>Resistance: 30 lb</span><br>
+            <span>Reps: 13</span><br>
+            <span>Sets: 2</span><br>
+            <span>Notes:  </span><br>
+            <button disabled>Edit</button><button disabled>delete</button>
+          </li>
+          <li>
+            <h3>Squat</h3>
+            <span>Resistance: 130 lb</span><br>
+            <span>Reps: 18</span><br>
+            <span>Sets: 2</span><br>
+            <span>Notes: Use back brace </span><br>
+            <button><a href='./user-mobile-page-edit-exercises.html'>Edit</a></button>
+            <button><a href='./user-mobile-page-delete-exercises.html'>delete</a></button>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</body>
+<footer><p>© Awesome Company</p></footer>
+</html>
