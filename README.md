@@ -35,12 +35,12 @@
 - User can view their saved recipes
 
 # User Flow
-|<img alt ='Landing page' src='./user-flow/landing.jpg' width='350'>|<img alt ='Login' src='./user-flow/login1.jpg' width='350'>|<img alt ='Register' src='./user-flow/registration.jpg' width='350'>|
+|<img alt ='Landing page' src='./user-flow/landing.jpg' width='400'>|<img alt ='Login' src='./user-flow/login1.jpg' width='400'>|<img alt ='Register' src='./user-flow/registration.jpg' width='400'>|
 |:---:|:---:|:---:|
 | Landing | Login | Register |
-|<img alt ='Workout page' src='./user-flow/workout.jpg' width='350'>|<img alt ='Exercise page' src='./user-flow/exercise.jpg' width='350'>|<img alt ='Nutrition page' src='./user-flow/nutrition.jpg' width='350'>|
+|<img alt ='Workout page' src='./user-flow/workout.jpg' width='400'>|<img alt ='Exercise page' src='./user-flow/exercise.jpg' width='400'>|<img alt ='Nutrition page' src='./user-flow/nutrition.jpg' width='400'>|
 | Workout | Exercise | Nutrition |
-|<img alt ='Recipes page' src='./user-flow/recipe.jpg' width='350'>|<img alt ='Recipe-detail page' src='./user-flow/recipe-detail.jpg' width='350'>|<img alt ='My Recipe page' src='./user-flow/MyRecipe.jpg' width='350'>|
+|<img alt ='Recipes page' src='./user-flow/recipe.jpg' width='400'>|<img alt ='Recipe-detail page' src='./user-flow/recipe-detail.jpg' width='400'>|<img alt ='My Recipe page' src='./user-flow/MyRecipe.jpg' width='400'>|
 | Recipes | Recipe Detail | My Recipes |
-| |<img alt='MyRecipe-detail page' src='./user-flow/MyRecipe-detail.jpg'>||
+| |<img alt='MyRecipe-detail page' src='./user-flow/MyRecipe-detail.jpg' width='400'>||
 ||My Recipe Detail||
