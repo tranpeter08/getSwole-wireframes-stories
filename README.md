@@ -41,4 +41,6 @@
 |<img alt ='Workout page' src='./user-flow/workout.jpg' width='350'>|<img alt ='Exercise page' src='./user-flow/exercise.jpg' width='350'>|<img alt ='Nutrition page' src='./user-flow/nutrition.jpg' width='350'>|
 | Workout | Exercise | Nutrition |
 |<img alt ='Recipes page' src='./user-flow/recipe.jpg' width='350'>|<img alt ='Recipe-detail page' src='./user-flow/recipe-detail.jpg' width='350'>|<img alt ='My Recipe page' src='./user-flow/MyRecipe.jpg' width='350'>|
-| Workout | Exercise | Nutrition |
+| Recipes | Recipe Detail | My Recipes |
+| |<img alt='MyRecipe-detail page' src='./user-flow/MyRecipe-detail.jpg'>||
+||My Recipe Detail||
