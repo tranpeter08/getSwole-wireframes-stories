@@ -38,7 +38,5 @@
 |<img alt ='Landing page' src='./user-flow/landing.jpg' width='300'>|<img alt ='Login' src='./user-flow/login1.jpg' width='300'>|<img alt ='Register' src='./user-flow/registration.jpg' width='300'>|
 |:---:|:---:|:---:|
 | Landing | Login | Register |
-
 |<img alt ='Workout page' src='./user-flow/workout.jpg' width='300'>|<img alt ='Exercise page' src='./user-flow/exercise.jpg' width='300'>|<img alt ='Nutrition page' src='./user-flow/nutrition.jpg' width='300'>|
-|:---:|:---:|:---:|
-| Landing | Login | Register |
+| Workout | Exercise | Nutrition |
